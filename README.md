@@ -1,5 +1,11 @@
 ## Hi there 👋
+I'm alban, I'm a fullstack web developper
 
+- 🔭 I’m currently working on React/Nest/Typescript
+- 🌱 I’m currently learning the microservices archi
+- 📫 How to reach me: linkedin.com/in/albanblanchard
+- ⚡ Fun fact: I first studied philosophy
+  
 <!--
 **albanblanchard/albanblanchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
