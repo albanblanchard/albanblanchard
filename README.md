@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm alban, I'm a fullstack web developper
+I'm Alban, I'm a fullstack web developper
 
-- 🔭 I’m currently working on React/Nest/Typescript
+- 🔭 I’m currently working on React/Nest/Typescript projects
 - 🌱 I’m currently learning the microservices archi
 - 📫 How to reach me: linkedin.com/in/albanblanchard
 - ⚡ Fun fact: I first studied philosophy
