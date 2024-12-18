@@ -3,7 +3,7 @@ I'm Alban, I'm a fullstack web developper
 
 - 🔭 I’m currently working on React/Nest/Typescript projects
 - 🌱 I’m currently learning the microservices archi
-- 📫 How to reach me: linkedin.com/in/albanblanchard
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/albanblanchard/)
 - ⚡ Fun fact: I first studied philosophy
   
 <!--
