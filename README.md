@@ -4,7 +4,7 @@ I'm Alban, I'm a fullstack web developper
 - 🔭 I’m currently working on React/Nest/Typescript projects
 - 🌱 I’m currently learning the microservices archi
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/albanblanchard/)
-- ⚡ Fun fact: I first studied philosophy
+- 🧙‍♂ Fun fact: I first studied philosophy
   
 <!--
 **albanblanchard/albanblanchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
