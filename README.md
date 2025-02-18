@@ -2,6 +2,7 @@
 I'm Alban, I'm a fullstack web developper
 
 - 🔭 I’m currently working on React/Nest/Typescript projects
+- 🧑‍🚀 OK some others with the JamStack too
 - 🌱 I’m currently learning the microservices archi
 - 🧙‍♂ Fun fact: I first studied philosophy
   
