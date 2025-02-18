@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Alban, I'm a fullstack web developper
+I'm Alban, I'm a full stack web developper (emphasis on frontend).
 
 - 🔭 I’m currently working on React/Nest/Typescript projects
 - 🧑‍🚀 OK some others with the JAMstack too
