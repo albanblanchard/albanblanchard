@@ -4,7 +4,7 @@ I'm Alban, I'm a fullstack web developper
 - 🔭 I’m currently working on React/Nest/Typescript projects
 - 🧑‍🚀 OK some others with the JAMstack too
 - 🌱 I’m currently learning the microservices archi
-- 🧙‍♂ Fun fact: I first studied philosophy
+- 🧙‍♂ Fun fact: I first studied philosophy but then worked as webdesigner
   
 <!--
 **albanblanchard/albanblanchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
